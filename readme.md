@@ -403,10 +403,13 @@ python visualisation/anims_rendered_imgs.py --rendered-folder rendered/occ3d/sur
 ## 👍 Acknowledgements
 
 Many thanks to these excellent open source projects:
+* [GaussianSplatting](https://github.com/graphdeco-inria/gaussian-splatting)
+* [Gaussian Rasterization with depth](https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth)
 * [GaussianFormer](https://github.com/huang-yh/GaussianFormer)
 * [SurroundOcc](https://github.com/weiyithu/SurroundOcc)
 * [TPVFormer](https://github.com/wzzheng/TPVFormer)
 * [Symphonies](https://github.com/hustvl/symphonies)
+
 
 ## ❤️  Other repository
 If you liked our work, do not hesitate to also see:
