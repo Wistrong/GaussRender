@@ -1,0 +1,51 @@
+This project contains code under multiple licenses. Users must comply with the respective licenses
+when using, modifying, or distributing this project.
+
+1. Gaussian-Splatting Licensed Code (Strictly Non-Commercial)
+Component Name : pytorch
+Component Version: v1.7.0-rc1
+License: Gaussian-Splatting License
+
+Summary of Obligations:
+You may not use this code for commercial purposes
+You may not sublicense or relicense derivative works
+Redistribution must retain the original Gaussian-Splatting license
+For any commercial use, you must contact INRIA for explicit authorization : stip-
+sophia.transfert@inria.fr
+
+2. Nvidia-Licensed Code (Strictly Non-Commercial)
+Component Name : nvlabs/fb-bev
+Component Version: 20240112-snapshot-832bd818
+Component Name : nvlabs/voxformer
+Component Version: 20231207-snapshot-63da9241
+License: Nvidia Source Code License-NC
+
+Summary of Obligations :
+You may not use this code for commercial purposes
+You may modify and redistribute it, but it must remain under the Nvidia License-NC
+Redistribution must include a copy of the Nvidia License-NC
+For details, see: https://developer.nvidia.com/license
+
+3. Open-Source Code (Commercial Use Allowed)
+
+core-code : Licensed under MIT
+utils : Licensed under Apache 2.0
+scripts : Licensed under BSD 3-Clause
+
+README
+Important Usage Notice:
+- The Gaussian-Splatting and Nvidia modules are strictly for non-commercial use
+- The rest of the project (MIT/Apache/BSD) can be used commercially
+- If you modify or distribute this project, you must retain all original license terms
+- If you wish to use any Gaussian-Splatting components commercially, you must obtain explicit
+permission from INRIA
+- If you wish to use any Nvidia-licensed components commercially, you must obtain explicit
+permission from Nvidia
+
+Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

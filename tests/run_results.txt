@@ -1,0 +1,9 @@
+Running command: python train.py --py-config config/tpvformer/render.py --work-dir out/debug --dataset kitti360 --cfg-options inspect=True
+Command succeeded: python train.py --py-config config/tpvformer/render.py --work-dir out/debug --dataset kitti360 --cfg-options inspect=True
+
+Running command: python train.py --py-config config/tpvformer/render.py --work-dir out/debug --dataset occ3d --cfg-options inspect=True train_dataset_config.is_mini=True val_dataset_config.is_mini=True
+Command succeeded: python train.py --py-config config/tpvformer/render.py --work-dir out/debug --dataset occ3d --cfg-options inspect=True train_dataset_config.is_mini=True val_dataset_config.is_mini=True
+
+Running command: python train.py --py-config config/tpvformer/render.py --work-dir out/debug --dataset surroundocc --cfg-options inspect=True train_dataset_config.is_mini=True val_dataset_config.is_mini=True
+Command succeeded: python train.py --py-config config/tpvformer/render.py --work-dir out/debug --dataset surroundocc --cfg-options inspect=True train_dataset_config.is_mini=True val_dataset_config.is_mini=True
+
