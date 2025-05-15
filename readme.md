@@ -272,8 +272,8 @@ cd -
 
 ```bash
 cd ./data/surroundocc_nuscenes/
-wget -O samples_train.zip https://cloud.tsinghua.edu.cn/seafhttp/files/92f71370-3686-44ab-814e-8af648ba01e6/train.zip
-wget -O samples_val.zip https://cloud.tsinghua.edu.cn/seafhttp/files/0499c96e-2176-4f6c-b30a-968c81dd7bdd/val.zip
+wget -O samples_train.zip https://cloud.tsinghua.edu.cn/f/ef8357724574491d9ddb/?dl=1
+wget -O samples_val.zip https://cloud.tsinghua.edu.cn/f/290276f4a4024896b733/?dl=1
 unzip samples_train.zip
 unzip samples_val.zip
 cd -
